@@ -1,6 +1,6 @@
 # Homework-15-MachineLearning
 
-## Please refer the files:
+## Please review the files:
 1. predict.py
 2. preprocess.py
 3. dtmodel.joblib 
@@ -10,5 +10,5 @@
 
 
 ##### Note: These below files are for later learning reference only.
-* three .ipynb files
+* the three .ipynb files
 * the other eight .joblib files
