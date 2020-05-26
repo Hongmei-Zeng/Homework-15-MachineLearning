@@ -10,5 +10,5 @@
 
 
 ##### Note: These below files are for later learning reference only.
-* the three .ipynb files
-* the other eight .joblib files
+* The three .ipynb files
+* The other eight .joblib files
